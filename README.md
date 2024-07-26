@@ -1,8 +1,15 @@
-## Seja Bem vindo(a) 💗
 
-<img src="https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif" width="230px" align="right">
+# Seja Bem vindo(a) 💗
 
-#oie
+<img src="https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif" width="350px" align="right">
+
+
+  - Técnica em Informática
+  - Cursando Análise e Desenvolvimento de Sistemas
+
+Ferramentas que conheço ✨
+
+
 <!--
 **juliaturubia/juliaturubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
