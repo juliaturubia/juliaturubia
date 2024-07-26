@@ -10,11 +10,16 @@
 ‎ ‎ ‎ ‎ Ferramentas que conheço ✨
 
 <br> 
+<br>
 
-![JavaScript]()
-![CSS]()
-![HTML]()
-![SQL]()
+![JavaScript](https://github.com/user-attachments/assets/a53f85da-15f2-432b-8b76-d585d527a35a)
+![CSS](https://github.com/user-attachments/assets/b4cf9a3d-4dbd-4fcb-a3cc-fdd4f828bb8e)
+![HTML](https://github.com/user-attachments/assets/b16482f1-f5aa-4ef7-8c7f-99a2f7dfcba7)
+![Bootstrap](https://github.com/user-attachments/assets/f6fdd202-aef7-4c8a-a14a-7dc8c4ce25db)
+![SQL](https://github.com/user-attachments/assets/053d3f1f-77ee-4491-9b95-3f9f4cc747e1)
+![MongoDb](https://github.com/user-attachments/assets/3130ee94-568a-4360-90bf-00725d9a719c)
+![WordPress](https://github.com/user-attachments/assets/35f55a50-fe29-4ed6-8d74-fa1e3d773713)
+
 
 <br>
 
