@@ -1,5 +1,5 @@
 ## Seja Bem vindo(a) 💗
-<img style="margin-top: 40px;" align="rigth" width="400px"> <iframe src="https://giphy.com/embed/3oKIPsx2VAYAgEHC12" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DNCE-3oKIPsx2VAYAgEHC12"></a></p>>
+<img style="margin-top: 40px;" align="rigth" width="400px" src="https://giphy.com/embed/3oKIPsx2VAYAgEHC12"> 
 
 <!--
 **juliaturubia/juliaturubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
