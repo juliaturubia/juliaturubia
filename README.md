@@ -1,6 +1,6 @@
 ## Seja Bem vindo(a) 💗
 
-![Alt Text](https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif)
 <!--
 **juliaturubia/juliaturubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
