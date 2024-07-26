@@ -6,8 +6,27 @@
 
   - Técnica em Informática
   - Cursando Análise e Desenvolvimento de Sistemas
+    
+<br>
+‎ ‎ ‎ ‎ Ferramentas que conheço ✨
 
-Ferramentas que conheço ✨
+<br> 
+
+![JavaScript]()
+![CSS]()
+![HTML]()
+![SQL]()
+
+
+
+<br>
+
+
+
+‎ ‎ ‎ ‎ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaturubia&layout=compact&show_icons=true&theme=dracula) 
+<br> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaturubia&show_icons=true&theme=dracula) 
+
 
 
 <!--
